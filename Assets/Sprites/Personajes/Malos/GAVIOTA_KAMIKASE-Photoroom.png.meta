@@ -1,0 +1,1468 @@
+fileFormatVersion: 2
+guid: a2c8e2901d4d6284982e70fbacfa9f40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4042261517136614125
+    second: GAVIOTA_KAMIKASE-Photoroom_0
+  - first:
+      213: 4373859106261619068
+    second: GAVIOTA_KAMIKASE-Photoroom_1
+  - first:
+      213: 8408993876803585011
+    second: GAVIOTA_KAMIKASE-Photoroom_2
+  - first:
+      213: 8154329233466134877
+    second: GAVIOTA_KAMIKASE-Photoroom_3
+  - first:
+      213: 4942618058088144004
+    second: GAVIOTA_KAMIKASE-Photoroom_4
+  - first:
+      213: -120264125113956798
+    second: GAVIOTA_KAMIKASE-Photoroom_5
+  - first:
+      213: -210198606565276192
+    second: GAVIOTA_KAMIKASE-Photoroom_6
+  - first:
+      213: -9037382201903123721
+    second: GAVIOTA_KAMIKASE-Photoroom_7
+  - first:
+      213: 3806935293276281742
+    second: GAVIOTA_KAMIKASE-Photoroom_8
+  - first:
+      213: 2163419256979056004
+    second: GAVIOTA_KAMIKASE-Photoroom_9
+  - first:
+      213: -8516076664620361098
+    second: GAVIOTA_KAMIKASE-Photoroom_10
+  - first:
+      213: 9108167898238719690
+    second: GAVIOTA_KAMIKASE-Photoroom_11
+  - first:
+      213: -3798615871899266882
+    second: GAVIOTA_KAMIKASE-Photoroom_12
+  - first:
+      213: -9017744702279751890
+    second: GAVIOTA_KAMIKASE-Photoroom_13
+  - first:
+      213: -2886252601358099090
+    second: GAVIOTA_KAMIKASE-Photoroom_14
+  - first:
+      213: -3761170509535752773
+    second: GAVIOTA_KAMIKASE-Photoroom_15
+  - first:
+      213: -6069378386191310380
+    second: GAVIOTA_KAMIKASE-Photoroom_16
+  - first:
+      213: -4482163564239784051
+    second: GAVIOTA_KAMIKASE-Photoroom_17
+  - first:
+      213: -925797939765006355
+    second: GAVIOTA_KAMIKASE-Photoroom_18
+  - first:
+      213: -6617008358849587296
+    second: GAVIOTA_KAMIKASE-Photoroom_19
+  - first:
+      213: -5650827398198119495
+    second: GAVIOTA_KAMIKASE-Photoroom_20
+  - first:
+      213: 3112745439147158282
+    second: GAVIOTA_KAMIKASE-Photoroom_21
+  - first:
+      213: -7371967147926620256
+    second: GAVIOTA_KAMIKASE-Photoroom_22
+  - first:
+      213: -458400727867009281
+    second: GAVIOTA_KAMIKASE-Photoroom_23
+  - first:
+      213: -3314747320163428340
+    second: GAVIOTA_KAMIKASE-Photoroom_24
+  - first:
+      213: -5508607634421498969
+    second: GAVIOTA_KAMIKASE-Photoroom_25
+  - first:
+      213: -1265890605149505488
+    second: GAVIOTA_KAMIKASE-Photoroom_26
+  - first:
+      213: 921091640778963868
+    second: GAVIOTA_KAMIKASE-Photoroom_27
+  - first:
+      213: 15242031305432839
+    second: GAVIOTA_KAMIKASE-Photoroom_28
+  - first:
+      213: -590460754622996558
+    second: GAVIOTA_KAMIKASE-Photoroom_29
+  - first:
+      213: -8823995966549971309
+    second: GAVIOTA_KAMIKASE-Photoroom_30
+  - first:
+      213: -1543018203661526826
+    second: GAVIOTA_KAMIKASE-Photoroom_31
+  - first:
+      213: -4993177481047008996
+    second: GAVIOTA_KAMIKASE-Photoroom_32
+  - first:
+      213: 6769506071673681476
+    second: GAVIOTA_KAMIKASE-Photoroom_33
+  - first:
+      213: -8907772045146985075
+    second: GAVIOTA_KAMIKASE-Photoroom_34
+  - first:
+      213: 6896390352109534686
+    second: GAVIOTA_KAMIKASE-Photoroom_35
+  - first:
+      213: 131423852666045943
+    second: GAVIOTA_KAMIKASE-Photoroom_36
+  - first:
+      213: -4858177164337076554
+    second: GAVIOTA_KAMIKASE-Photoroom_37
+  - first:
+      213: -7069777218321505643
+    second: GAVIOTA_KAMIKASE-Photoroom_38
+  - first:
+      213: 694337703060784141
+    second: GAVIOTA_KAMIKASE-Photoroom_39
+  - first:
+      213: -5809274935461202825
+    second: GAVIOTA_KAMIKASE-Photoroom_40
+  - first:
+      213: -3499852133471740562
+    second: GAVIOTA_KAMIKASE-Photoroom_41
+  - first:
+      213: -5108960982422631703
+    second: GAVIOTA_KAMIKASE-Photoroom_42
+  - first:
+      213: 8769612793138256618
+    second: GAVIOTA_KAMIKASE-Photoroom_43
+  - first:
+      213: 2543478413128402961
+    second: GAVIOTA_KAMIKASE-Photoroom_44
+  - first:
+      213: 5080356498070631026
+    second: GAVIOTA_KAMIKASE-Photoroom_45
+  - first:
+      213: 4141218994872829686
+    second: GAVIOTA_KAMIKASE-Photoroom_46
+  - first:
+      213: 3757444492968591749
+    second: GAVIOTA_KAMIKASE-Photoroom_47
+  - first:
+      213: -4422469812975284385
+    second: GAVIOTA_KAMIKASE-Photoroom_48
+  - first:
+      213: 3107339215418723502
+    second: GAVIOTA_KAMIKASE-Photoroom_49
+  - first:
+      213: -5787883888063206935
+    second: GAVIOTA_KAMIKASE-Photoroom_50
+  - first:
+      213: -3277729588731050666
+    second: GAVIOTA_KAMIKASE-Photoroom_51
+  - first:
+      213: 3615429738107799672
+    second: GAVIOTA_KAMIKASE-Photoroom_52
+  - first:
+      213: -6589018507913690643
+    second: GAVIOTA_KAMIKASE-Photoroom_53
+  - first:
+      213: 4082533119835955335
+    second: GAVIOTA_KAMIKASE-Photoroom_54
+  - first:
+      213: 2080492952094137999
+    second: GAVIOTA_KAMIKASE-Photoroom_55
+  - first:
+      213: -5251977014801213338
+    second: GAVIOTA_KAMIKASE-Photoroom_56
+  - first:
+      213: -2899931486974842896
+    second: GAVIOTA_KAMIKASE-Photoroom_57
+  - first:
+      213: -4369159652426108542
+    second: GAVIOTA_KAMIKASE-Photoroom_58
+  - first:
+      213: -7524659560547028152
+    second: GAVIOTA_KAMIKASE-Photoroom_59
+  - first:
+      213: -7375789024159948182
+    second: GAVIOTA_KAMIKASE-Photoroom_60
+  - first:
+      213: -2418105809112234986
+    second: GAVIOTA_KAMIKASE-Photoroom_61
+  - first:
+      213: 6789628618627616563
+    second: GAVIOTA_KAMIKASE-Photoroom_62
+  - first:
+      213: -106726307033016634
+    second: GAVIOTA_KAMIKASE-Photoroom_63
+  - first:
+      213: -895996397837111493
+    second: GAVIOTA_KAMIKASE-Photoroom_64
+  - first:
+      213: 1206749627399216690
+    second: GAVIOTA_KAMIKASE-Photoroom_65
+  - first:
+      213: 3509820600479323602
+    second: GAVIOTA_KAMIKASE-Photoroom_66
+  - first:
+      213: 4172708293566780376
+    second: GAVIOTA_KAMIKASE-Photoroom_67
+  - first:
+      213: 7194046301336407585
+    second: GAVIOTA_KAMIKASE-Photoroom_68
+  - first:
+      213: 1582094662053053031
+    second: GAVIOTA_KAMIKASE-Photoroom_69
+  - first:
+      213: 1178169640138039431
+    second: GAVIOTA_KAMIKASE-Photoroom_70
+  - first:
+      213: -630648789862131907
+    second: GAVIOTA_KAMIKASE-Photoroom_71
+  - first:
+      213: 5313943228487814104
+    second: GAVIOTA_KAMIKASE-Photoroom_72
+  - first:
+      213: -6857942652825728504
+    second: GAVIOTA_KAMIKASE-Photoroom_73
+  - first:
+      213: -3988729904574336298
+    second: GAVIOTA_KAMIKASE-Photoroom_74
+  - first:
+      213: -8597943012327051857
+    second: GAVIOTA_KAMIKASE-Photoroom_75
+  - first:
+      213: 6996519084821065401
+    second: GAVIOTA_KAMIKASE-Photoroom_76
+  - first:
+      213: 2148861836295253907
+    second: GAVIOTA_KAMIKASE-Photoroom_77
+  - first:
+      213: 3796369210218193522
+    second: GAVIOTA_KAMIKASE-Photoroom_78
+  - first:
+      213: 5382446320103711200
+    second: GAVIOTA_KAMIKASE-Photoroom_79
+  - first:
+      213: -3453798462764886038
+    second: GAVIOTA_KAMIKASE-Photoroom_80
+  - first:
+      213: 3366148632525504544
+    second: GAVIOTA_KAMIKASE-Photoroom_81
+  - first:
+      213: -2005948870790474984
+    second: GAVIOTA_KAMIKASE-Photoroom_82
+  - first:
+      213: 7405296296196610713
+    second: GAVIOTA_KAMIKASE-Photoroom_83
+  - first:
+      213: -810997442589981835
+    second: GAVIOTA_KAMIKASE-Photoroom_84
+  - first:
+      213: 7828383984769130624
+    second: GAVIOTA_KAMIKASE-Photoroom_85
+  - first:
+      213: 8745170437738668669
+    second: GAVIOTA_KAMIKASE-Photoroom_86
+  - first:
+      213: 3421927096461896669
+    second: GAVIOTA_KAMIKASE-Photoroom_87
+  - first:
+      213: -9174263182070146111
+    second: GAVIOTA_KAMIKASE-Photoroom_88
+  - first:
+      213: -6661495464964030470
+    second: GAVIOTA_KAMIKASE-Photoroom_89
+  - first:
+      213: -3165759070042513263
+    second: GAVIOTA_KAMIKASE-Photoroom_90
+  - first:
+      213: -3206826529722835395
+    second: GAVIOTA_KAMIKASE-Photoroom_91
+  - first:
+      213: 2367320082807703658
+    second: GAVIOTA_KAMIKASE-Photoroom_92
+  - first:
+      213: -8619125803705060769
+    second: GAVIOTA_KAMIKASE-Photoroom_93
+  - first:
+      213: 7782978200020445530
+    second: GAVIOTA_KAMIKASE-Photoroom_94
+  - first:
+      213: -3604544548453942022
+    second: GAVIOTA_KAMIKASE-Photoroom_95
+  - first:
+      213: 277574126299748477
+    second: GAVIOTA_KAMIKASE-Photoroom_96
+  - first:
+      213: 823229945128784636
+    second: GAVIOTA_KAMIKASE-Photoroom_97
+  - first:
+      213: -2526413513651434032
+    second: GAVIOTA_KAMIKASE-Photoroom_98
+  - first:
+      213: -2241557668888243941
+    second: GAVIOTA_KAMIKASE-Photoroom_99
+  - first:
+      213: 6352955885348895350
+    second: GAVIOTA_KAMIKASE-Photoroom_100
+  - first:
+      213: 1290901700857138974
+    second: GAVIOTA_KAMIKASE-Photoroom_101
+  - first:
+      213: -924460037414691331
+    second: GAVIOTA_KAMIKASE-Photoroom_102
+  - first:
+      213: 6356483434265167432
+    second: GAVIOTA_KAMIKASE-Photoroom_103
+  - first:
+      213: -5494739759446195830
+    second: GAVIOTA_KAMIKASE-Photoroom_104
+  - first:
+      213: 5264857096530810684
+    second: GAVIOTA_KAMIKASE-Photoroom_105
+  - first:
+      213: 1901318566824078323
+    second: GAVIOTA_KAMIKASE-Photoroom_106
+  - first:
+      213: 1799184434600914113
+    second: GAVIOTA_KAMIKASE-Photoroom_107
+  - first:
+      213: -4077427609934597876
+    second: GAVIOTA_KAMIKASE-Photoroom_108
+  - first:
+      213: -5246508224403722018
+    second: GAVIOTA_KAMIKASE-Photoroom_109
+  - first:
+      213: -3866411733969700948
+    second: GAVIOTA_KAMIKASE-Photoroom_110
+  - first:
+      213: 6485348964385642697
+    second: GAVIOTA_KAMIKASE-Photoroom_111
+  - first:
+      213: -8990099612856340620
+    second: GAVIOTA_KAMIKASE-Photoroom_112
+  - first:
+      213: 5990403428587486548
+    second: GAVIOTA_KAMIKASE-Photoroom_113
+  - first:
+      213: 2535027161003514605
+    second: GAVIOTA_KAMIKASE-Photoroom_114
+  - first:
+      213: -8954084007656705980
+    second: GAVIOTA_KAMIKASE-Photoroom_115
+  - first:
+      213: -8785025800353657930
+    second: GAVIOTA_KAMIKASE-Photoroom_116
+  - first:
+      213: 4964112823746235723
+    second: GAVIOTA_KAMIKASE-Photoroom_117
+  - first:
+      213: -4366386898141755106
+    second: GAVIOTA_KAMIKASE-Photoroom_118
+  - first:
+      213: 593172253580056699
+    second: GAVIOTA_KAMIKASE-Photoroom_119
+  - first:
+      213: -6326111118126342061
+    second: GAVIOTA_KAMIKASE-Photoroom_120
+  - first:
+      213: -3991042064409084158
+    second: GAVIOTA_KAMIKASE-Photoroom_121
+  - first:
+      213: -5900491311948585576
+    second: GAVIOTA_KAMIKASE-Photoroom_122
+  - first:
+      213: -4273224898527073025
+    second: GAVIOTA_KAMIKASE-Photoroom_123
+  - first:
+      213: -3706670088007693601
+    second: GAVIOTA_KAMIKASE-Photoroom_124
+  - first:
+      213: 322645230755169831
+    second: GAVIOTA_KAMIKASE-Photoroom_125
+  - first:
+      213: -1818875716724221270
+    second: GAVIOTA_KAMIKASE-Photoroom_126
+  - first:
+      213: 6142621309646626960
+    second: GAVIOTA_KAMIKASE-Photoroom_127
+  - first:
+      213: 5798241965396639347
+    second: GAVIOTA_KAMIKASE-Photoroom_128
+  - first:
+      213: -1760373905212507363
+    second: GAVIOTA_KAMIKASE-Photoroom_129
+  - first:
+      213: -7016385257016607464
+    second: GAVIOTA_KAMIKASE-Photoroom_130
+  - first:
+      213: 8897194834007477072
+    second: GAVIOTA_KAMIKASE-Photoroom_131
+  - first:
+      213: 4457982979814909402
+    second: GAVIOTA_KAMIKASE-Photoroom_132
+  - first:
+      213: -3376102688155145131
+    second: GAVIOTA_KAMIKASE-Photoroom_133
+  - first:
+      213: 5060937043989108032
+    second: GAVIOTA_KAMIKASE-Photoroom_134
+  - first:
+      213: 7011707380166739234
+    second: GAVIOTA_KAMIKASE-Photoroom_135
+  - first:
+      213: 3849047945355239894
+    second: GAVIOTA_KAMIKASE-Photoroom_136
+  - first:
+      213: -5459051164016378093
+    second: GAVIOTA_KAMIKASE-Photoroom_137
+  - first:
+      213: -5711238058971482113
+    second: GAVIOTA_KAMIKASE-Photoroom_138
+  - first:
+      213: 7528484611794545651
+    second: GAVIOTA_KAMIKASE-Photoroom_139
+  - first:
+      213: 9118160425985842144
+    second: GAVIOTA_KAMIKASE-Photoroom_140
+  - first:
+      213: -5682581134391737246
+    second: GAVIOTA_KAMIKASE-Photoroom_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 496
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7fbf3ffe281b990800000000000000
+      internalID: -7371967147926620256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 496
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6d4ba77fe63a9f0800000000000000
+      internalID: -458400727867009281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 496
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c081b75efd6aff1d0800000000000000
+      internalID: -3314747320163428340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 496
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3d47da8e7d83b0800000000000000
+      internalID: -5508607634421498969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 504
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b363697ff58cc00800000000000000
+      internalID: 921091640778963868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 511
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f9d95fb86263000800000000000000
+      internalID: 15242031305432839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 510
+        width: 143
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf13e272134ec7f0800000000000000
+      internalID: -590460754622996558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 499
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e2f428b6eda8580800000000000000
+      internalID: -8823995966549971309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 506
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d81bc87e19169ae0800000000000000
+      internalID: -1543018203661526826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 383
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d160217070e6fc0800000000000000
+      internalID: -3499852133471740562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 390
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea4e5f0e035919b0800000000000000
+      internalID: -5108960982422631703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 386
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1ab83f5ce3b970800000000000000
+      internalID: 8769612793138256618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 384
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118846c04204c4320800000000000000
+      internalID: 2543478413128402961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 383
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f8df615d018640800000000000000
+      internalID: 5080356498070631026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 376
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ce761cb0987930800000000000000
+      internalID: 4141218994872829686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 377
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58104aacbdf152430800000000000000
+      internalID: 3757444492968591749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 383
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f48b7e22b30a2c0800000000000000
+      internalID: -4422469812975284385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 374
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac8ca39d8c7f1b20800000000000000
+      internalID: 3107339215418723502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 374
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e929c2f44e4dafa0800000000000000
+      internalID: -5787883888063206935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 374
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65506e12e4a2382d0800000000000000
+      internalID: -3277729588731050666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 381
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8788c4201369c2230800000000000000
+      internalID: 3615429738107799672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 380
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18451c39a1f84a0800000000000000
+      internalID: -6589018507913690643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 252
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e17f9746c3fb010800000000000000
+      internalID: 1206749627399216690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 259
+        width: 127
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27ed4f84f25a8c0800000000000000
+      internalID: -3988729904574336298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 257
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e364296a42ba40800000000000000
+      internalID: 5382446320103711200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 248
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7db1dd894a110d0800000000000000
+      internalID: -3453798462764886038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 259
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02089deb856f6be20800000000000000
+      internalID: 3366148632525504544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 259
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81310f641207924e0800000000000000
+      internalID: -2005948870790474984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 261
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a90571fb5e4c660800000000000000
+      internalID: 7405296296196610713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5738ca07f12ceb4f0800000000000000
+      internalID: -810997442589981835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 259
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb93c44e387ea080800000000000000
+      internalID: -9174263182070146111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 259
+        width: 97
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff71f13b2d9d83a0800000000000000
+      internalID: -6661495464964030470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 226
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52b1c36fb6b26880800000000000000
+      internalID: -8619125803705060769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 150
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd4f0b7b4060fcd0800000000000000
+      internalID: -2526413513651434032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAVIOTA_KAMIKASE-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 20
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf0f39245e197e0800000000000000
+      internalID: -1760373905212507363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fdd5a35449e8013499207defdfeb0a55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GAVIOTA_KAMIKASE-Photoroom_0: 4042261517136614125
+      GAVIOTA_KAMIKASE-Photoroom_1: 4373859106261619068
+      GAVIOTA_KAMIKASE-Photoroom_10: -8516076664620361098
+      GAVIOTA_KAMIKASE-Photoroom_100: 6352955885348895350
+      GAVIOTA_KAMIKASE-Photoroom_101: 1290901700857138974
+      GAVIOTA_KAMIKASE-Photoroom_102: -924460037414691331
+      GAVIOTA_KAMIKASE-Photoroom_103: 6356483434265167432
+      GAVIOTA_KAMIKASE-Photoroom_104: -5494739759446195830
+      GAVIOTA_KAMIKASE-Photoroom_105: 5264857096530810684
+      GAVIOTA_KAMIKASE-Photoroom_106: 1901318566824078323
+      GAVIOTA_KAMIKASE-Photoroom_107: 1799184434600914113
+      GAVIOTA_KAMIKASE-Photoroom_108: -4077427609934597876
+      GAVIOTA_KAMIKASE-Photoroom_109: -5246508224403722018
+      GAVIOTA_KAMIKASE-Photoroom_11: 9108167898238719690
+      GAVIOTA_KAMIKASE-Photoroom_110: -3866411733969700948
+      GAVIOTA_KAMIKASE-Photoroom_111: 6485348964385642697
+      GAVIOTA_KAMIKASE-Photoroom_112: -8990099612856340620
+      GAVIOTA_KAMIKASE-Photoroom_113: 5990403428587486548
+      GAVIOTA_KAMIKASE-Photoroom_114: 2535027161003514605
+      GAVIOTA_KAMIKASE-Photoroom_115: -8954084007656705980
+      GAVIOTA_KAMIKASE-Photoroom_116: -8785025800353657930
+      GAVIOTA_KAMIKASE-Photoroom_117: 4964112823746235723
+      GAVIOTA_KAMIKASE-Photoroom_118: -4366386898141755106
+      GAVIOTA_KAMIKASE-Photoroom_119: 593172253580056699
+      GAVIOTA_KAMIKASE-Photoroom_12: -3798615871899266882
+      GAVIOTA_KAMIKASE-Photoroom_120: -6326111118126342061
+      GAVIOTA_KAMIKASE-Photoroom_121: -3991042064409084158
+      GAVIOTA_KAMIKASE-Photoroom_122: -5900491311948585576
+      GAVIOTA_KAMIKASE-Photoroom_123: -4273224898527073025
+      GAVIOTA_KAMIKASE-Photoroom_124: -3706670088007693601
+      GAVIOTA_KAMIKASE-Photoroom_125: 322645230755169831
+      GAVIOTA_KAMIKASE-Photoroom_126: -1818875716724221270
+      GAVIOTA_KAMIKASE-Photoroom_127: 6142621309646626960
+      GAVIOTA_KAMIKASE-Photoroom_128: 5798241965396639347
+      GAVIOTA_KAMIKASE-Photoroom_129: -1760373905212507363
+      GAVIOTA_KAMIKASE-Photoroom_13: -9017744702279751890
+      GAVIOTA_KAMIKASE-Photoroom_130: -7016385257016607464
+      GAVIOTA_KAMIKASE-Photoroom_131: 8897194834007477072
+      GAVIOTA_KAMIKASE-Photoroom_132: 4457982979814909402
+      GAVIOTA_KAMIKASE-Photoroom_133: -3376102688155145131
+      GAVIOTA_KAMIKASE-Photoroom_134: 5060937043989108032
+      GAVIOTA_KAMIKASE-Photoroom_135: 7011707380166739234
+      GAVIOTA_KAMIKASE-Photoroom_136: 3849047945355239894
+      GAVIOTA_KAMIKASE-Photoroom_137: -5459051164016378093
+      GAVIOTA_KAMIKASE-Photoroom_138: -5711238058971482113
+      GAVIOTA_KAMIKASE-Photoroom_139: 7528484611794545651
+      GAVIOTA_KAMIKASE-Photoroom_14: -2886252601358099090
+      GAVIOTA_KAMIKASE-Photoroom_140: 9118160425985842144
+      GAVIOTA_KAMIKASE-Photoroom_141: -5682581134391737246
+      GAVIOTA_KAMIKASE-Photoroom_15: -3761170509535752773
+      GAVIOTA_KAMIKASE-Photoroom_16: -6069378386191310380
+      GAVIOTA_KAMIKASE-Photoroom_17: -4482163564239784051
+      GAVIOTA_KAMIKASE-Photoroom_18: -925797939765006355
+      GAVIOTA_KAMIKASE-Photoroom_19: -6617008358849587296
+      GAVIOTA_KAMIKASE-Photoroom_2: 8408993876803585011
+      GAVIOTA_KAMIKASE-Photoroom_20: -5650827398198119495
+      GAVIOTA_KAMIKASE-Photoroom_21: 3112745439147158282
+      GAVIOTA_KAMIKASE-Photoroom_22: -7371967147926620256
+      GAVIOTA_KAMIKASE-Photoroom_23: -458400727867009281
+      GAVIOTA_KAMIKASE-Photoroom_24: -3314747320163428340
+      GAVIOTA_KAMIKASE-Photoroom_25: -5508607634421498969
+      GAVIOTA_KAMIKASE-Photoroom_26: -1265890605149505488
+      GAVIOTA_KAMIKASE-Photoroom_27: 921091640778963868
+      GAVIOTA_KAMIKASE-Photoroom_28: 15242031305432839
+      GAVIOTA_KAMIKASE-Photoroom_29: -590460754622996558
+      GAVIOTA_KAMIKASE-Photoroom_3: 8154329233466134877
+      GAVIOTA_KAMIKASE-Photoroom_30: -8823995966549971309
+      GAVIOTA_KAMIKASE-Photoroom_31: -1543018203661526826
+      GAVIOTA_KAMIKASE-Photoroom_32: -4993177481047008996
+      GAVIOTA_KAMIKASE-Photoroom_33: 6769506071673681476
+      GAVIOTA_KAMIKASE-Photoroom_34: -8907772045146985075
+      GAVIOTA_KAMIKASE-Photoroom_35: 6896390352109534686
+      GAVIOTA_KAMIKASE-Photoroom_36: 131423852666045943
+      GAVIOTA_KAMIKASE-Photoroom_37: -4858177164337076554
+      GAVIOTA_KAMIKASE-Photoroom_38: -7069777218321505643
+      GAVIOTA_KAMIKASE-Photoroom_39: 694337703060784141
+      GAVIOTA_KAMIKASE-Photoroom_4: 4942618058088144004
+      GAVIOTA_KAMIKASE-Photoroom_40: -5809274935461202825
+      GAVIOTA_KAMIKASE-Photoroom_41: -3499852133471740562
+      GAVIOTA_KAMIKASE-Photoroom_42: -5108960982422631703
+      GAVIOTA_KAMIKASE-Photoroom_43: 8769612793138256618
+      GAVIOTA_KAMIKASE-Photoroom_44: 2543478413128402961
+      GAVIOTA_KAMIKASE-Photoroom_45: 5080356498070631026
+      GAVIOTA_KAMIKASE-Photoroom_46: 4141218994872829686
+      GAVIOTA_KAMIKASE-Photoroom_47: 3757444492968591749
+      GAVIOTA_KAMIKASE-Photoroom_48: -4422469812975284385
+      GAVIOTA_KAMIKASE-Photoroom_49: 3107339215418723502
+      GAVIOTA_KAMIKASE-Photoroom_5: -120264125113956798
+      GAVIOTA_KAMIKASE-Photoroom_50: -5787883888063206935
+      GAVIOTA_KAMIKASE-Photoroom_51: -3277729588731050666
+      GAVIOTA_KAMIKASE-Photoroom_52: 3615429738107799672
+      GAVIOTA_KAMIKASE-Photoroom_53: -6589018507913690643
+      GAVIOTA_KAMIKASE-Photoroom_54: 4082533119835955335
+      GAVIOTA_KAMIKASE-Photoroom_55: 2080492952094137999
+      GAVIOTA_KAMIKASE-Photoroom_56: -5251977014801213338
+      GAVIOTA_KAMIKASE-Photoroom_57: -2899931486974842896
+      GAVIOTA_KAMIKASE-Photoroom_58: -4369159652426108542
+      GAVIOTA_KAMIKASE-Photoroom_59: -7524659560547028152
+      GAVIOTA_KAMIKASE-Photoroom_6: -210198606565276192
+      GAVIOTA_KAMIKASE-Photoroom_60: -7375789024159948182
+      GAVIOTA_KAMIKASE-Photoroom_61: -2418105809112234986
+      GAVIOTA_KAMIKASE-Photoroom_62: 6789628618627616563
+      GAVIOTA_KAMIKASE-Photoroom_63: -106726307033016634
+      GAVIOTA_KAMIKASE-Photoroom_64: -895996397837111493
+      GAVIOTA_KAMIKASE-Photoroom_65: 1206749627399216690
+      GAVIOTA_KAMIKASE-Photoroom_66: 3509820600479323602
+      GAVIOTA_KAMIKASE-Photoroom_67: 4172708293566780376
+      GAVIOTA_KAMIKASE-Photoroom_68: 7194046301336407585
+      GAVIOTA_KAMIKASE-Photoroom_69: 1582094662053053031
+      GAVIOTA_KAMIKASE-Photoroom_7: -9037382201903123721
+      GAVIOTA_KAMIKASE-Photoroom_70: 1178169640138039431
+      GAVIOTA_KAMIKASE-Photoroom_71: -630648789862131907
+      GAVIOTA_KAMIKASE-Photoroom_72: 5313943228487814104
+      GAVIOTA_KAMIKASE-Photoroom_73: -6857942652825728504
+      GAVIOTA_KAMIKASE-Photoroom_74: -3988729904574336298
+      GAVIOTA_KAMIKASE-Photoroom_75: -8597943012327051857
+      GAVIOTA_KAMIKASE-Photoroom_76: 6996519084821065401
+      GAVIOTA_KAMIKASE-Photoroom_77: 2148861836295253907
+      GAVIOTA_KAMIKASE-Photoroom_78: 3796369210218193522
+      GAVIOTA_KAMIKASE-Photoroom_79: 5382446320103711200
+      GAVIOTA_KAMIKASE-Photoroom_8: 3806935293276281742
+      GAVIOTA_KAMIKASE-Photoroom_80: -3453798462764886038
+      GAVIOTA_KAMIKASE-Photoroom_81: 3366148632525504544
+      GAVIOTA_KAMIKASE-Photoroom_82: -2005948870790474984
+      GAVIOTA_KAMIKASE-Photoroom_83: 7405296296196610713
+      GAVIOTA_KAMIKASE-Photoroom_84: -810997442589981835
+      GAVIOTA_KAMIKASE-Photoroom_85: 7828383984769130624
+      GAVIOTA_KAMIKASE-Photoroom_86: 8745170437738668669
+      GAVIOTA_KAMIKASE-Photoroom_87: 3421927096461896669
+      GAVIOTA_KAMIKASE-Photoroom_88: -9174263182070146111
+      GAVIOTA_KAMIKASE-Photoroom_89: -6661495464964030470
+      GAVIOTA_KAMIKASE-Photoroom_9: 2163419256979056004
+      GAVIOTA_KAMIKASE-Photoroom_90: -3165759070042513263
+      GAVIOTA_KAMIKASE-Photoroom_91: -3206826529722835395
+      GAVIOTA_KAMIKASE-Photoroom_92: 2367320082807703658
+      GAVIOTA_KAMIKASE-Photoroom_93: -8619125803705060769
+      GAVIOTA_KAMIKASE-Photoroom_94: 7782978200020445530
+      GAVIOTA_KAMIKASE-Photoroom_95: -3604544548453942022
+      GAVIOTA_KAMIKASE-Photoroom_96: 277574126299748477
+      GAVIOTA_KAMIKASE-Photoroom_97: 823229945128784636
+      GAVIOTA_KAMIKASE-Photoroom_98: -2526413513651434032
+      GAVIOTA_KAMIKASE-Photoroom_99: -2241557668888243941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

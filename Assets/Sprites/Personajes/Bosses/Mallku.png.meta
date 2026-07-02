@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 9728f6cf150236246bf906744ec32298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4111465378013007382
+    second: Mallku_0
+  - first:
+      213: 8690278403476946134
+    second: Mallku_1
+  - first:
+      213: 1113030294194441595
+    second: Mallku_2
+  - first:
+      213: -4697395593175112479
+    second: Mallku_3
+  - first:
+      213: 3483093359760679093
+    second: Mallku_4
+  - first:
+      213: 7592116895880572554
+    second: Mallku_5
+  - first:
+      213: -4382696463164557905
+    second: Mallku_6
+  - first:
+      213: -4643430518105986830
+    second: Mallku_7
+  - first:
+      213: -3086023490526871835
+    second: Mallku_8
+  - first:
+      213: 3598124252352553585
+    second: Mallku_9
+  - first:
+      213: 8012579177971352044
+    second: Mallku_10
+  - first:
+      213: 8737795439761761255
+    second: Mallku_11
+  - first:
+      213: 8103947635139137070
+    second: Mallku_12
+  - first:
+      213: -7679001337493936815
+    second: Mallku_13
+  - first:
+      213: -7012739001774440530
+    second: Mallku_14
+  - first:
+      213: 2924857868994567772
+    second: Mallku_15
+  - first:
+      213: 301497544786743723
+    second: Mallku_16
+  - first:
+      213: -2370466650073274861
+    second: Mallku_17
+  - first:
+      213: 7386028263532550951
+    second: Mallku_18
+  - first:
+      213: -954995139088406602
+    second: Mallku_19
+  - first:
+      213: 3089668606960579011
+    second: Mallku_20
+  - first:
+      213: -3565470645016454976
+    second: Mallku_21
+  - first:
+      213: -3541229609119965829
+    second: Mallku_22
+  - first:
+      213: -8194683881894651125
+    second: Mallku_23
+  - first:
+      213: 8801302545093192894
+    second: Mallku_24
+  - first:
+      213: -2155711413593013813
+    second: Mallku_25
+  - first:
+      213: 6565359540761520580
+    second: Mallku_26
+  - first:
+      213: -3239932316622154480
+    second: Mallku_27
+  - first:
+      213: 1013910090500567298
+    second: Mallku_28
+  - first:
+      213: 8983273182685643120
+    second: Mallku_29
+  - first:
+      213: 4389024760253550970
+    second: Mallku_30
+  - first:
+      213: 3282103688135412592
+    second: Mallku_31
+  - first:
+      213: -9156015201239217319
+    second: Mallku_32
+  - first:
+      213: -8190152609971467883
+    second: Mallku_33
+  - first:
+      213: 2064155308700772911
+    second: Mallku_34
+  - first:
+      213: 3040277878107372258
+    second: Mallku_35
+  - first:
+      213: -449420022099713992
+    second: Mallku_36
+  - first:
+      213: 1792156305255232653
+    second: Mallku_37
+  - first:
+      213: -8440514399024336669
+    second: Mallku_38
+  - first:
+      213: -1699229077098564277
+    second: Mallku_39
+  - first:
+      213: -3291475550688624011
+    second: Mallku_40
+  - first:
+      213: 9161841231205590005
+    second: Mallku_41
+  - first:
+      213: 5307460314582511447
+    second: Mallku_42
+  - first:
+      213: 1909939742841339030
+    second: Mallku_43
+  - first:
+      213: -3855789389225578108
+    second: Mallku_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mallku_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1846
+        width: 237
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e48c25afbde0930800000000000000
+      internalID: 4111465378013007382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1849
+        width: 240
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfd763a221a9870800000000000000
+      internalID: 8690278403476946134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1842
+        width: 236
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d45bdc727427f00800000000000000
+      internalID: 1113030294194441595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1842
+        width: 237
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4ef4b889f7fceb0800000000000000
+      internalID: -4697395593175112479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_4
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1416
+        width: 241
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0ae0cd4fe665030800000000000000
+      internalID: 3483093359760679093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1434
+        width: 236
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ee330971e9c5960800000000000000
+      internalID: 7592116895880572554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1433
+        width: 227
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa537ba89c88d23c0800000000000000
+      internalID: -4382696463164557905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1428
+        width: 241
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8a515bb883f8fb0800000000000000
+      internalID: -4643430518105986830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_8
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1431
+        width: 243
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee72ae5cfd3c25d0800000000000000
+      internalID: -3086023490526871835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_9
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1430
+        width: 249
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172213f91fa1fe130800000000000000
+      internalID: 3598124252352553585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 960
+        width: 288
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18ca55f46623f60800000000000000
+      internalID: 8012579177971352044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 958
+        width: 313
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3270b58a2e24970800000000000000
+      internalID: 8737795439761761255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 955
+        width: 416
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ec5d60071077070800000000000000
+      internalID: 8103947635139137070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_13
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 951
+        width: 278
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ace8f7f4be6590800000000000000
+      internalID: -7679001337493936815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_14
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 928
+        width: 344
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff4b0780fbdae90800000000000000
+      internalID: -7012739001774440530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_15
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1016
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e5deb3cbe279820800000000000000
+      internalID: 2924857868994567772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_16
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 949
+        width: 287
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19aa96b622f2400800000000000000
+      internalID: 301497544786743723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 530
+        width: 361
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e87a14296a1fd0800000000000000
+      internalID: -2370466650073274861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 530
+        width: 373
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b5ad4a291708660800000000000000
+      internalID: 7386028263532550951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_19
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 527
+        width: 330
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b729641bfc2fb2f0800000000000000
+      internalID: -954995139088406602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_20
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 486
+        width: 284
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1bf8f6a35b0ea20800000000000000
+      internalID: 3089668606960579011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_21
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 488
+        width: 289
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c816bac657e48ec0800000000000000
+      internalID: -3565470645016454976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_22
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 487
+        width: 273
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d1f48ce660bdec0800000000000000
+      internalID: -3541229609119965829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 70
+        width: 383
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bdc0d3d62a64e80800000000000000
+      internalID: -8194683881894651125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 71
+        width: 424
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc65019802842a70800000000000000
+      internalID: 8801302545093192894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_25
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 56
+        width: 394
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1888a04ef5512e0800000000000000
+      internalID: -2155711413593013813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_29
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 70
+        width: 353
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071454e3d5ffaac70800000000000000
+      internalID: 8983273182685643120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_40
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 58
+        width: 303
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5724256fc645252d0800000000000000
+      internalID: -3291475550688624011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallku_43
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 54
+        width: 315
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c757aa318718a10800000000000000
+      internalID: 1909939742841339030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 177cfdddb0a6dc948bdf00205066c4b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mallku_0: 4111465378013007382
+      Mallku_1: 8690278403476946134
+      Mallku_10: 8012579177971352044
+      Mallku_11: 8737795439761761255
+      Mallku_12: 8103947635139137070
+      Mallku_13: -7679001337493936815
+      Mallku_14: -7012739001774440530
+      Mallku_15: 2924857868994567772
+      Mallku_16: 301497544786743723
+      Mallku_17: -2370466650073274861
+      Mallku_18: 7386028263532550951
+      Mallku_19: -954995139088406602
+      Mallku_2: 1113030294194441595
+      Mallku_20: 3089668606960579011
+      Mallku_21: -3565470645016454976
+      Mallku_22: -3541229609119965829
+      Mallku_23: -8194683881894651125
+      Mallku_24: 8801302545093192894
+      Mallku_25: -2155711413593013813
+      Mallku_26: 6565359540761520580
+      Mallku_27: -3239932316622154480
+      Mallku_28: 1013910090500567298
+      Mallku_29: 8983273182685643120
+      Mallku_3: -4697395593175112479
+      Mallku_30: 4389024760253550970
+      Mallku_31: 3282103688135412592
+      Mallku_32: -9156015201239217319
+      Mallku_33: -8190152609971467883
+      Mallku_34: 2064155308700772911
+      Mallku_35: 3040277878107372258
+      Mallku_36: -449420022099713992
+      Mallku_37: 1792156305255232653
+      Mallku_38: -8440514399024336669
+      Mallku_39: -1699229077098564277
+      Mallku_4: 3483093359760679093
+      Mallku_40: -3291475550688624011
+      Mallku_41: 9161841231205590005
+      Mallku_42: 5307460314582511447
+      Mallku_43: 1909939742841339030
+      Mallku_44: -3855789389225578108
+      Mallku_5: 7592116895880572554
+      Mallku_6: -4382696463164557905
+      Mallku_7: -4643430518105986830
+      Mallku_8: -3086023490526871835
+      Mallku_9: 3598124252352553585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

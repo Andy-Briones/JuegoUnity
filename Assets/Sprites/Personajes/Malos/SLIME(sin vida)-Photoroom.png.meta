@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 91ae1f317a766d64ba3324f929add9f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3479220741567118051
+    second: SLIME(sin vida)-Photoroom_0
+  - first:
+      213: 3015809525480076016
+    second: SLIME(sin vida)-Photoroom_1
+  - first:
+      213: 3246782645290201496
+    second: SLIME(sin vida)-Photoroom_2
+  - first:
+      213: -2781378598456373087
+    second: SLIME(sin vida)-Photoroom_3
+  - first:
+      213: 3163788627761599550
+    second: SLIME(sin vida)-Photoroom_4
+  - first:
+      213: -6007464776435112475
+    second: SLIME(sin vida)-Photoroom_5
+  - first:
+      213: 7640515915994590232
+    second: SLIME(sin vida)-Photoroom_6
+  - first:
+      213: 7573252592748700104
+    second: SLIME(sin vida)-Photoroom_7
+  - first:
+      213: 3264890012980141717
+    second: SLIME(sin vida)-Photoroom_8
+  - first:
+      213: -3184905115887144935
+    second: SLIME(sin vida)-Photoroom_9
+  - first:
+      213: -2707157508054312775
+    second: SLIME(sin vida)-Photoroom_10
+  - first:
+      213: 9202224333770771093
+    second: SLIME(sin vida)-Photoroom_11
+  - first:
+      213: -1660529992486390558
+    second: SLIME(sin vida)-Photoroom_12
+  - first:
+      213: -7142304393224096487
+    second: SLIME(sin vida)-Photoroom_13
+  - first:
+      213: -3207970392245890419
+    second: SLIME(sin vida)-Photoroom_14
+  - first:
+      213: -5555144940891669106
+    second: SLIME(sin vida)-Photoroom_15
+  - first:
+      213: -7241792208810161947
+    second: SLIME(sin vida)-Photoroom_16
+  - first:
+      213: -508521106097561433
+    second: SLIME(sin vida)-Photoroom_17
+  - first:
+      213: -2646192211091629963
+    second: SLIME(sin vida)-Photoroom_18
+  - first:
+      213: -4635010016519733272
+    second: SLIME(sin vida)-Photoroom_19
+  - first:
+      213: 8302511165945983107
+    second: SLIME(sin vida)-Photoroom_20
+  - first:
+      213: -1653768645063738747
+    second: SLIME(sin vida)-Photoroom_21
+  - first:
+      213: -4459748657671998502
+    second: SLIME(sin vida)-Photoroom_22
+  - first:
+      213: -4106831083217676970
+    second: SLIME(sin vida)-Photoroom_23
+  - first:
+      213: 2208534631275144465
+    second: SLIME(sin vida)-Photoroom_24
+  - first:
+      213: -5815429811933503374
+    second: SLIME(sin vida)-Photoroom_25
+  - first:
+      213: 7534910568406514652
+    second: SLIME(sin vida)-Photoroom_26
+  - first:
+      213: 1287055087733426813
+    second: SLIME(sin vida)-Photoroom_27
+  - first:
+      213: 1056692529764187735
+    second: SLIME(sin vida)-Photoroom_28
+  - first:
+      213: -5582184505702411260
+    second: SLIME(sin vida)-Photoroom_29
+  - first:
+      213: -1100870915215764435
+    second: SLIME(sin vida)-Photoroom_30
+  - first:
+      213: 7232024890272743377
+    second: SLIME(sin vida)-Photoroom_31
+  - first:
+      213: 7920023303030200621
+    second: SLIME(sin vida)-Photoroom_32
+  - first:
+      213: -6454482433787279081
+    second: SLIME(sin vida)-Photoroom_33
+  - first:
+      213: -3420595046293870527
+    second: SLIME(sin vida)-Photoroom_34
+  - first:
+      213: -8849500998766567680
+    second: SLIME(sin vida)-Photoroom_35
+  - first:
+      213: -1874879374962237973
+    second: SLIME(sin vida)-Photoroom_36
+  - first:
+      213: -2548712346995213369
+    second: SLIME(sin vida)-Photoroom_37
+  - first:
+      213: 2905515347701628124
+    second: SLIME(sin vida)-Photoroom_38
+  - first:
+      213: 3134743312697191031
+    second: SLIME(sin vida)-Photoroom_39
+  - first:
+      213: 3824510075159033938
+    second: SLIME(sin vida)-Photoroom_40
+  - first:
+      213: -1291994482959873656
+    second: SLIME(sin vida)-Photoroom_41
+  - first:
+      213: -8381423253728864391
+    second: SLIME(sin vida)-Photoroom_42
+  - first:
+      213: -8668351213372365451
+    second: SLIME(sin vida)-Photoroom_43
+  - first:
+      213: -6835919267453118287
+    second: SLIME(sin vida)-Photoroom_44
+  - first:
+      213: 8163229518722753142
+    second: SLIME(sin vida)-Photoroom_45
+  - first:
+      213: -5697611214660869419
+    second: SLIME(sin vida)-Photoroom_46
+  - first:
+      213: 5830518428564220993
+    second: SLIME(sin vida)-Photoroom_47
+  - first:
+      213: -8085305718113074884
+    second: SLIME(sin vida)-Photoroom_48
+  - first:
+      213: 3808453067555356644
+    second: SLIME(sin vida)-Photoroom_49
+  - first:
+      213: -6286692553383103041
+    second: SLIME(sin vida)-Photoroom_50
+  - first:
+      213: 1058685716557638481
+    second: SLIME(sin vida)-Photoroom_51
+  - first:
+      213: -6140010476069512812
+    second: SLIME(sin vida)-Photoroom_52
+  - first:
+      213: -7084910750586049550
+    second: SLIME(sin vida)-Photoroom_53
+  - first:
+      213: 3159324687246274990
+    second: SLIME(sin vida)-Photoroom_54
+  - first:
+      213: -1731807790582958509
+    second: SLIME(sin vida)-Photoroom_55
+  - first:
+      213: 7852069865181212085
+    second: SLIME(sin vida)-Photoroom_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1588b35b2357bfc0800000000000000
+      internalID: -3479220741567118051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 459
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2ba74f8ce4ad920800000000000000
+      internalID: 3015809525480076016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 462
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891fc6b1d93ee0d20800000000000000
+      internalID: 3246782645290201496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 465
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0522da6ee8669d0800000000000000
+      internalID: -2781378598456373087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 465
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3496269ef808eb20800000000000000
+      internalID: 3163788627761599550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 463
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e9ef5d9231aca0800000000000000
+      internalID: -6007464776435112475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 466
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c63919eb0980a60800000000000000
+      internalID: 7640515915994590232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 463
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1a719bb19991960800000000000000
+      internalID: 7573252592748700104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 477
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed66e2b283f4d20800000000000000
+      internalID: 3264890012980141717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 465
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f834eba1fcc3d0800000000000000
+      internalID: -3184905115887144935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 447
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8146de69e3e6ad0800000000000000
+      internalID: -2707157508054312775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 443
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59accdda64ed4bf70800000000000000
+      internalID: 9202224333770771093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 449
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e477fa05cc94f8e0800000000000000
+      internalID: -1660529992486390558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 442
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157a24feff61ec90800000000000000
+      internalID: -7142304393224096487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 297
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829630cceffa73d0800000000000000
+      internalID: -3207970392245890419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 297
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df752db1928e2b0800000000000000
+      internalID: -5555144940891669106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 298
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8cda0da5cff7b90800000000000000
+      internalID: -7241792208810161947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 301
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0244e8fbe51f8f0800000000000000
+      internalID: -508521106097561433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 298
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785a724436d64bd0800000000000000
+      internalID: -2646192211091629963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efb6f282f22dafb0800000000000000
+      internalID: -4635010016519733272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 301
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380bce5bae1783370800000000000000
+      internalID: 8302511165945983107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 297
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58afb4aed22ac09e0800000000000000
+      internalID: -1653768645063738747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 321
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad37fef793acb12c0800000000000000
+      internalID: -4459748657671998502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 299
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655174483ea9107c0800000000000000
+      internalID: -4106831083217676970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 297
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115ad4bbb8a46ae10800000000000000
+      internalID: 2208534631275144465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 297
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270ac73c5617b4fa0800000000000000
+      internalID: -5815429811933503374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 364
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf4348d31619860800000000000000
+      internalID: 7534910568406514652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 369
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac5be78c98cd110800000000000000
+      internalID: 1287055087733426813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 348
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3769d1402aae00800000000000000
+      internalID: 1056692529764187735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 290
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041bea84c81882b0800000000000000
+      internalID: -5582184505702411260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 367
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24510b3cbbe8b0f0800000000000000
+      internalID: -1100870915215764435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 363
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df7d7f12505d5460800000000000000
+      internalID: 7232024890272743377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 336
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d295ee56b3399ed60800000000000000
+      internalID: 7920023303030200621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7194c1d7c621d66a0800000000000000
+      internalID: -6454482433787279081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1486131bdea9780d0800000000000000
+      internalID: -3420595046293870527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 161
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fdd017ab1403580800000000000000
+      internalID: -8849500998766567680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 166
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed5baa54271bf5e0800000000000000
+      internalID: -1874879374962237973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 163
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb2b2cf9721acd0800000000000000
+      internalID: -2548712346995213369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 164
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc733d80d6725820800000000000000
+      internalID: 2905515347701628124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 163
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae85f2f68d08b20800000000000000
+      internalID: 3134743312697191031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 168
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b1c576a3631530800000000000000
+      internalID: 3824510075159033938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 168
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889896fecd9e11ee0800000000000000
+      internalID: -1291994482959873656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 174
+        width: 119
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977da4915f33fab80800000000000000
+      internalID: -8381423253728864391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 174
+        width: 119
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5752d929f74d3b780800000000000000
+      internalID: -8668351213372365451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 174
+        width: 119
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8553ef4afe121a0800000000000000
+      internalID: -6835919267453118287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e3732ffd994170800000000000000
+      internalID: 8163229518722753142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 25
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d26bd999c40ee0b0800000000000000
+      internalID: -5697611214660869419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 22
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c60fe8e992ae050800000000000000
+      internalID: 5830518428564220993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 109
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c318f6389493bcf80800000000000000
+      internalID: -8085305718113074884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 113
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef326b03e75ad430800000000000000
+      internalID: 3808453067555356644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 107
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5b1875e6e21c8a0800000000000000
+      internalID: -6286692553383103041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 25
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ba230dc0531be00800000000000000
+      internalID: 1058685716557638481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 81
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49913b0d00d4acaa0800000000000000
+      internalID: -6140010476069512812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe8f5b5375dad90800000000000000
+      internalID: -7084910750586049550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 22
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1bf61701d28db20800000000000000
+      internalID: 3159324687246274990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 22
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567c0f6df167f7e0800000000000000
+      internalID: -1731807790582958509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME(sin vida)-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 22
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdeca9b0f728fc60800000000000000
+      internalID: 7852069865181212085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 556ed3bed6c64564781cf25c40246b27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLIME(sin vida)-Photoroom_0: -3479220741567118051
+      SLIME(sin vida)-Photoroom_1: 3015809525480076016
+      SLIME(sin vida)-Photoroom_10: -2707157508054312775
+      SLIME(sin vida)-Photoroom_11: 9202224333770771093
+      SLIME(sin vida)-Photoroom_12: -1660529992486390558
+      SLIME(sin vida)-Photoroom_13: -7142304393224096487
+      SLIME(sin vida)-Photoroom_14: -3207970392245890419
+      SLIME(sin vida)-Photoroom_15: -5555144940891669106
+      SLIME(sin vida)-Photoroom_16: -7241792208810161947
+      SLIME(sin vida)-Photoroom_17: -508521106097561433
+      SLIME(sin vida)-Photoroom_18: -2646192211091629963
+      SLIME(sin vida)-Photoroom_19: -4635010016519733272
+      SLIME(sin vida)-Photoroom_2: 3246782645290201496
+      SLIME(sin vida)-Photoroom_20: 8302511165945983107
+      SLIME(sin vida)-Photoroom_21: -1653768645063738747
+      SLIME(sin vida)-Photoroom_22: -4459748657671998502
+      SLIME(sin vida)-Photoroom_23: -4106831083217676970
+      SLIME(sin vida)-Photoroom_24: 2208534631275144465
+      SLIME(sin vida)-Photoroom_25: -5815429811933503374
+      SLIME(sin vida)-Photoroom_26: 7534910568406514652
+      SLIME(sin vida)-Photoroom_27: 1287055087733426813
+      SLIME(sin vida)-Photoroom_28: 1056692529764187735
+      SLIME(sin vida)-Photoroom_29: -5582184505702411260
+      SLIME(sin vida)-Photoroom_3: -2781378598456373087
+      SLIME(sin vida)-Photoroom_30: -1100870915215764435
+      SLIME(sin vida)-Photoroom_31: 7232024890272743377
+      SLIME(sin vida)-Photoroom_32: 7920023303030200621
+      SLIME(sin vida)-Photoroom_33: -6454482433787279081
+      SLIME(sin vida)-Photoroom_34: -3420595046293870527
+      SLIME(sin vida)-Photoroom_35: -8849500998766567680
+      SLIME(sin vida)-Photoroom_36: -1874879374962237973
+      SLIME(sin vida)-Photoroom_37: -2548712346995213369
+      SLIME(sin vida)-Photoroom_38: 2905515347701628124
+      SLIME(sin vida)-Photoroom_39: 3134743312697191031
+      SLIME(sin vida)-Photoroom_4: 3163788627761599550
+      SLIME(sin vida)-Photoroom_40: 3824510075159033938
+      SLIME(sin vida)-Photoroom_41: -1291994482959873656
+      SLIME(sin vida)-Photoroom_42: -8381423253728864391
+      SLIME(sin vida)-Photoroom_43: -8668351213372365451
+      SLIME(sin vida)-Photoroom_44: -6835919267453118287
+      SLIME(sin vida)-Photoroom_45: 8163229518722753142
+      SLIME(sin vida)-Photoroom_46: -5697611214660869419
+      SLIME(sin vida)-Photoroom_47: 5830518428564220993
+      SLIME(sin vida)-Photoroom_48: -8085305718113074884
+      SLIME(sin vida)-Photoroom_49: 3808453067555356644
+      SLIME(sin vida)-Photoroom_5: -6007464776435112475
+      SLIME(sin vida)-Photoroom_50: -6286692553383103041
+      SLIME(sin vida)-Photoroom_51: 1058685716557638481
+      SLIME(sin vida)-Photoroom_52: -6140010476069512812
+      SLIME(sin vida)-Photoroom_53: -7084910750586049550
+      SLIME(sin vida)-Photoroom_54: 3159324687246274990
+      SLIME(sin vida)-Photoroom_55: -1731807790582958509
+      SLIME(sin vida)-Photoroom_56: 7852069865181212085
+      SLIME(sin vida)-Photoroom_6: 7640515915994590232
+      SLIME(sin vida)-Photoroom_7: 7573252592748700104
+      SLIME(sin vida)-Photoroom_8: 3264890012980141717
+      SLIME(sin vida)-Photoroom_9: -3184905115887144935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

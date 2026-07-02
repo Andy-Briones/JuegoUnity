@@ -1,0 +1,1915 @@
+fileFormatVersion: 2
+guid: f034134fd155139488d6de1be526657b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 147189464062142498
+    second: Pj-artguru_0
+  - first:
+      213: 1473297496131400919
+    second: Pj-artguru_1
+  - first:
+      213: -1871538121352412591
+    second: Pj-artguru_2
+  - first:
+      213: -6296265150662662959
+    second: Pj-artguru_3
+  - first:
+      213: 2210766012947691694
+    second: Pj-artguru_4
+  - first:
+      213: 7094864962739540246
+    second: Pj-artguru_5
+  - first:
+      213: -1189715670019714111
+    second: Pj-artguru_6
+  - first:
+      213: 6013133602238023604
+    second: Pj-artguru_7
+  - first:
+      213: 8118429679405988898
+    second: Pj-artguru_8
+  - first:
+      213: -645222977382523246
+    second: Pj-artguru_9
+  - first:
+      213: 7402931549179394430
+    second: Pj-artguru_10
+  - first:
+      213: -3001355421215360104
+    second: Pj-artguru_11
+  - first:
+      213: -929454521274520394
+    second: Pj-artguru_12
+  - first:
+      213: 4427419356821732336
+    second: Pj-artguru_13
+  - first:
+      213: 5269321129356162207
+    second: Pj-artguru_14
+  - first:
+      213: 7120376552690290973
+    second: Pj-artguru_15
+  - first:
+      213: 8908275663215316209
+    second: Pj-artguru_16
+  - first:
+      213: -3023146173489023304
+    second: Pj-artguru_17
+  - first:
+      213: -8074953249011707503
+    second: Pj-artguru_18
+  - first:
+      213: 1020341389184735166
+    second: Pj-artguru_19
+  - first:
+      213: -559211029387599017
+    second: Pj-artguru_20
+  - first:
+      213: -5719065161566472871
+    second: Pj-artguru_21
+  - first:
+      213: -4158908086166215767
+    second: Pj-artguru_22
+  - first:
+      213: 8791780518297269273
+    second: Pj-artguru_23
+  - first:
+      213: 2331939560890588783
+    second: Pj-artguru_24
+  - first:
+      213: 1409515433853635518
+    second: Pj-artguru_25
+  - first:
+      213: 1828408562421905168
+    second: Pj-artguru_26
+  - first:
+      213: -7995962947426460105
+    second: Pj-artguru_27
+  - first:
+      213: 7979970087256046921
+    second: Pj-artguru_28
+  - first:
+      213: -6289465055901977018
+    second: Pj-artguru_29
+  - first:
+      213: -6208557616916331801
+    second: Pj-artguru_30
+  - first:
+      213: -1769144164614014031
+    second: Pj-artguru_31
+  - first:
+      213: 5678262556240837724
+    second: Pj-artguru_32
+  - first:
+      213: -3652522190676355259
+    second: Pj-artguru_33
+  - first:
+      213: -402563099655600571
+    second: Pj-artguru_34
+  - first:
+      213: -3743754365741112718
+    second: Pj-artguru_35
+  - first:
+      213: 7543301817166884854
+    second: Pj-artguru_36
+  - first:
+      213: 1556871237434816370
+    second: Pj-artguru_37
+  - first:
+      213: -3037941758648495855
+    second: Pj-artguru_38
+  - first:
+      213: -7897815241978068625
+    second: Pj-artguru_39
+  - first:
+      213: -7991425988679708344
+    second: Pj-artguru_40
+  - first:
+      213: 5315459818624431664
+    second: Pj-artguru_41
+  - first:
+      213: -3770969206105067099
+    second: Pj-artguru_42
+  - first:
+      213: 4726645800794511833
+    second: Pj-artguru_43
+  - first:
+      213: -7589348406999807969
+    second: Pj-artguru_44
+  - first:
+      213: -3179504095171157303
+    second: Pj-artguru_45
+  - first:
+      213: -6750665154217971012
+    second: Pj-artguru_46
+  - first:
+      213: -2795139669920193160
+    second: Pj-artguru_47
+  - first:
+      213: 1811449696046451814
+    second: Pj-artguru_48
+  - first:
+      213: 9132359963332487239
+    second: Pj-artguru_49
+  - first:
+      213: -6934490492376177393
+    second: Pj-artguru_50
+  - first:
+      213: -484499067582326019
+    second: Pj-artguru_51
+  - first:
+      213: 3392746486261020291
+    second: Pj-artguru_52
+  - first:
+      213: -3969083873063714804
+    second: Pj-artguru_53
+  - first:
+      213: 3941665348693342818
+    second: Pj-artguru_54
+  - first:
+      213: -8967828351852291275
+    second: Pj-artguru_55
+  - first:
+      213: 1716795170130635075
+    second: Pj-artguru_56
+  - first:
+      213: -3169436069465810026
+    second: Pj-artguru_57
+  - first:
+      213: 7446263030765758874
+    second: Pj-artguru_58
+  - first:
+      213: -2273523332049350785
+    second: Pj-artguru_59
+  - first:
+      213: -2044359261428953101
+    second: Pj-artguru_60
+  - first:
+      213: 8198368551795254236
+    second: Pj-artguru_61
+  - first:
+      213: -6486467535327765827
+    second: Pj-artguru_62
+  - first:
+      213: 1078328656002536310
+    second: Pj-artguru_63
+  - first:
+      213: 7518857731722833363
+    second: Pj-artguru_64
+  - first:
+      213: 7703718359275929423
+    second: Pj-artguru_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pj-artguru_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1255
+        width: 107
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228aa18a90cea0200800000000000000
+      internalID: 147189464062142498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1106
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d472615444327410800000000000000
+      internalID: 1473297496131400919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1254
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15200359ef5f606e0800000000000000
+      internalID: -1871538121352412591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1253
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4a41b543c2f98a0800000000000000
+      internalID: -6296265150662662959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1106
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8f043c9f73eae10800000000000000
+      internalID: 2210766012947691694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1254
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6119479e716067260800000000000000
+      internalID: 7094864962739540246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1255
+        width: 107
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c352c8c6e74d7fe0800000000000000
+      internalID: -1189715670019714111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1105
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7cc5cf621f27350800000000000000
+      internalID: 6013133602238023604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1097
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c7bf6b7c47aa070800000000000000
+      internalID: 8118429679405988898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1105
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed130ee15bb07f0800000000000000
+      internalID: -645222977382523246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1106
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79be55850f7cb660800000000000000
+      internalID: 7402931549179394430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1106
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf3c1752b0956d0800000000000000
+      internalID: -3001355421215360104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 948
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc2d80990ae913f0800000000000000
+      internalID: -929454521274520394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 949
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb3c03927a517d30800000000000000
+      internalID: 4427419356821732336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 960
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fbba26a3602940800000000000000
+      internalID: 5269321129356162207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 959
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111022dfb8a0d260800000000000000
+      internalID: 7120376552690290973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 950
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc433848d80ab70800000000000000
+      internalID: 8908275663215316209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 946
+        width: 112
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6fa119290ab06d0800000000000000
+      internalID: -3023146173489023304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_18
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 947
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19155ce8dc000ff80800000000000000
+      internalID: -8074953249011707503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 815
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb71cf3661bf82e00800000000000000
+      internalID: 1020341389184735166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 815
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7532fd618884d38f0800000000000000
+      internalID: -559211029387599017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 815
+        width: 152
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b485598cc1a0b0800000000000000
+      internalID: -5719065161566472871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 631
+        width: 163
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3209661279846c0800000000000000
+      internalID: -4158908086166215767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_23
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 815
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914fe40fccda20a70800000000000000
+      internalID: 8791780518297269273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_24
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 815
+        width: 169
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e509ceca6bc5020800000000000000
+      internalID: 2331939560890588783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_25
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 815
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbc644b1da9f8310800000000000000
+      internalID: 1409515433853635518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 875
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b07376efcf5910800000000000000
+      internalID: 1828408562421905168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 811
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ed5715012a80190800000000000000
+      internalID: -7995962947426460105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 863
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db321c38c8ebe60800000000000000
+      internalID: 7979970087256046921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 631
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646fabbcad457b8a0800000000000000
+      internalID: -6289465055901977018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 631
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20824edb5c6d9a0800000000000000
+      internalID: -6208557616916331801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 631
+        width: 163
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbf9bf61ccb277e0800000000000000
+      internalID: -1769144164614014031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 631
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf22ec5bd3dce40800000000000000
+      internalID: 5678262556240837724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 632
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54711826b62af4dc0800000000000000
+      internalID: -3652522190676355259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 673
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54609556efec96af0800000000000000
+      internalID: -402563099655600571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_35
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 632
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272eea75d338b0cc0800000000000000
+      internalID: -3743754365741112718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_36
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 636
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6acd59013fa860800000000000000
+      internalID: 7543301817166884854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 482
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277335c442e1b9510800000000000000
+      internalID: 1556871237434816370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 482
+        width: 154
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1115e63f01017d5d0800000000000000
+      internalID: -3037941758648495855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 478
+        width: 505
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614b30c1e2556290800000000000000
+      internalID: -7897815241978068625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_40
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 478
+        width: 173
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841dbe75760c81190800000000000000
+      internalID: -7991425988679708344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_41
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 482
+        width: 142
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036b8f2ea8e44c940800000000000000
+      internalID: 5315459818624431664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_42
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 479
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1bb2b8c73daabc0800000000000000
+      internalID: -3770969206105067099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 321
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9d27f105b689140800000000000000
+      internalID: 4726645800794511833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 324
+        width: 160
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18891c75d73da690800000000000000
+      internalID: -7589348406999807969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321
+        width: 167
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26c650fd120e3d0800000000000000
+      internalID: -3179504095171157303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 321
+        width: 660
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2fa3d0fc1d052a0800000000000000
+      internalID: -6750665154217971012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 169
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875edcc874ba539d0800000000000000
+      internalID: -2795139669920193160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 169
+        width: 151
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c865da6ef832910800000000000000
+      internalID: 1811449696046451814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_49
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 176
+        width: 135
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748ae675009acbe70800000000000000
+      internalID: 9132359963332487239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_50
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 196
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05289f33adb3cf90800000000000000
+      internalID: -6934490492376177393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 174
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5fbe3aa6b649f0800000000000000
+      internalID: -484499067582326019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_52
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 167
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386fa8624f4751f20800000000000000
+      internalID: 3392746486261020291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 172
+        width: 152
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c004e4e1f3bfae8c0800000000000000
+      internalID: -3969083873063714804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_54
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 170
+        width: 139
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a355430cb93b630800000000000000
+      internalID: 3941665348693342818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_55
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 171
+        width: 140
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bda29a0afdb8380800000000000000
+      internalID: -8967828351852291275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_56
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 168
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492ebb7c1843d710800000000000000
+      internalID: 1716795170130635075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 168
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1e2defa6e304d0800000000000000
+      internalID: -3169436069465810026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 171
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99aae446c0765760800000000000000
+      internalID: 7446263030765758874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc2ac3392d270e0800000000000000
+      internalID: -2273523332049350785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff4f3d451af0a3e0800000000000000
+      internalID: -2044359261428953101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 18
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd36d73d2c476c170800000000000000
+      internalID: 8198368551795254236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_62
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 18
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5fa5b4207bf5a0800000000000000
+      internalID: -6486467535327765827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_63
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 18
+        width: 152
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d72c033ef6fe00800000000000000
+      internalID: 1078328656002536310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_64
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 18
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde9083549585860800000000000000
+      internalID: 7518857731722833363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_65
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 18
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ffb4e180b19ea60800000000000000
+      internalID: 7703718359275929423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1254
+        width: 107
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07113673047dca44e9c75a113a98e1c3
+      internalID: -877452427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_67
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1254
+        width: 107
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400f0c979a1db548b939ea4dcb8b055
+      internalID: -1127883066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pj-artguru_68
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 631
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990dbb09d77acd459434681c5f1b28b
+      internalID: 1027588849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f4710b3338351642af6882199cff648
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pj-artguru_0: 147189464062142498
+      Pj-artguru_1: 1473297496131400919
+      Pj-artguru_10: 7402931549179394430
+      Pj-artguru_11: -3001355421215360104
+      Pj-artguru_12: -929454521274520394
+      Pj-artguru_13: 4427419356821732336
+      Pj-artguru_14: 5269321129356162207
+      Pj-artguru_15: 7120376552690290973
+      Pj-artguru_16: 8908275663215316209
+      Pj-artguru_17: -3023146173489023304
+      Pj-artguru_18: -8074953249011707503
+      Pj-artguru_19: 1020341389184735166
+      Pj-artguru_2: -1871538121352412591
+      Pj-artguru_20: -559211029387599017
+      Pj-artguru_21: -5719065161566472871
+      Pj-artguru_22: -4158908086166215767
+      Pj-artguru_23: 8791780518297269273
+      Pj-artguru_24: 2331939560890588783
+      Pj-artguru_25: 1409515433853635518
+      Pj-artguru_26: 1828408562421905168
+      Pj-artguru_27: -7995962947426460105
+      Pj-artguru_28: 7979970087256046921
+      Pj-artguru_29: -6289465055901977018
+      Pj-artguru_3: -6296265150662662959
+      Pj-artguru_30: -6208557616916331801
+      Pj-artguru_31: -1769144164614014031
+      Pj-artguru_32: 5678262556240837724
+      Pj-artguru_33: -3652522190676355259
+      Pj-artguru_34: -402563099655600571
+      Pj-artguru_35: -3743754365741112718
+      Pj-artguru_36: 7543301817166884854
+      Pj-artguru_37: 1556871237434816370
+      Pj-artguru_38: -3037941758648495855
+      Pj-artguru_39: -7897815241978068625
+      Pj-artguru_4: 2210766012947691694
+      Pj-artguru_40: -7991425988679708344
+      Pj-artguru_41: 5315459818624431664
+      Pj-artguru_42: -3770969206105067099
+      Pj-artguru_43: 4726645800794511833
+      Pj-artguru_44: -7589348406999807969
+      Pj-artguru_45: -3179504095171157303
+      Pj-artguru_46: -6750665154217971012
+      Pj-artguru_47: -2795139669920193160
+      Pj-artguru_48: 1811449696046451814
+      Pj-artguru_49: 9132359963332487239
+      Pj-artguru_5: 7094864962739540246
+      Pj-artguru_50: -6934490492376177393
+      Pj-artguru_51: -484499067582326019
+      Pj-artguru_52: 3392746486261020291
+      Pj-artguru_53: -3969083873063714804
+      Pj-artguru_54: 3941665348693342818
+      Pj-artguru_55: -8967828351852291275
+      Pj-artguru_56: 1716795170130635075
+      Pj-artguru_57: -3169436069465810026
+      Pj-artguru_58: 7446263030765758874
+      Pj-artguru_59: -2273523332049350785
+      Pj-artguru_6: -1189715670019714111
+      Pj-artguru_60: -2044359261428953101
+      Pj-artguru_61: 8198368551795254236
+      Pj-artguru_62: -6486467535327765827
+      Pj-artguru_63: 1078328656002536310
+      Pj-artguru_64: 7518857731722833363
+      Pj-artguru_65: 7703718359275929423
+      Pj-artguru_66: -877452427
+      Pj-artguru_67: -1127883066
+      Pj-artguru_68: 1027588849
+      Pj-artguru_7: 6013133602238023604
+      Pj-artguru_8: 8118429679405988898
+      Pj-artguru_9: -645222977382523246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: d0c6efc757c1f4d46b854a05bb84737b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -106323852679519767
+    second: VIDAS.jpg-removebg-preview_0
+  - first:
+      213: -1678509519076237838
+    second: VIDAS.jpg-removebg-preview_1
+  - first:
+      213: -7304962071889680348
+    second: VIDAS.jpg-removebg-preview_2
+  - first:
+      213: -846622218607982687
+    second: VIDAS.jpg-removebg-preview_3
+  - first:
+      213: 6762577691655751575
+    second: VIDAS.jpg-removebg-preview_4
+  - first:
+      213: 1146665129824164501
+    second: VIDAS.jpg-removebg-preview_5
+  - first:
+      213: 5950259026811215977
+    second: VIDAS.jpg-removebg-preview_6
+  - first:
+      213: -6927585843289372519
+    second: VIDAS.jpg-removebg-preview_7
+  - first:
+      213: -9222298979851120262
+    second: VIDAS.jpg-removebg-preview_8
+  - first:
+      213: 6186786382414519651
+    second: VIDAS.jpg-removebg-preview_9
+  - first:
+      213: -6364876032194694017
+    second: VIDAS.jpg-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 244
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e2e1f403468ef0800000000000000
+      internalID: -106323852679519767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 245
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd595b4c7cb4b8e0800000000000000
+      internalID: -1678509519076237838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 119
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428605fe2bf8f9a90800000000000000
+      internalID: -7304962071889680348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a70be8e3913044f0800000000000000
+      internalID: -846622218607982687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 119
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7974f15b49089dd50800000000000000
+      internalID: 6762577691655751575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 119
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a1f7b3cd5c9ef00800000000000000
+      internalID: 1146665129824164501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 118
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960e4ae1f01939250800000000000000
+      internalID: 5950259026811215977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99846b321654cdf90800000000000000
+      internalID: -6927585843289372519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 24
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d68d80ffc30080800000000000000
+      internalID: -9222298979851120262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d9a019f61ebd550800000000000000
+      internalID: 6186786382414519651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 7
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7433a5a8fa6ba7a0800000000000000
+      internalID: -6364876032194694017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIDAS.jpg-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 8
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c435935e671ed94297f068351f0b995
+      internalID: 2079214510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ca07e2c69469094bb99bf6e12600058
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VIDAS.jpg-removebg-preview_0: -106323852679519767
+      VIDAS.jpg-removebg-preview_1: -1678509519076237838
+      VIDAS.jpg-removebg-preview_10: -6364876032194694017
+      VIDAS.jpg-removebg-preview_11: 2079214510
+      VIDAS.jpg-removebg-preview_2: -7304962071889680348
+      VIDAS.jpg-removebg-preview_3: -846622218607982687
+      VIDAS.jpg-removebg-preview_4: 6762577691655751575
+      VIDAS.jpg-removebg-preview_5: 1146665129824164501
+      VIDAS.jpg-removebg-preview_6: 5950259026811215977
+      VIDAS.jpg-removebg-preview_7: -6927585843289372519
+      VIDAS.jpg-removebg-preview_8: -9222298979851120262
+      VIDAS.jpg-removebg-preview_9: 6186786382414519651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
