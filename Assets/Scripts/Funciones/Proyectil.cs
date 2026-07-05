@@ -33,7 +33,7 @@ public class Proyectil : MonoBehaviour
 
             if (enemy != null)
             {
-                enemy.TakeDamage(1);
+                enemy.TakeDamage(5);
             }
 
             BossLife boss = collision.GetComponent<BossLife>();

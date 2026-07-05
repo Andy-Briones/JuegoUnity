@@ -26,7 +26,16 @@ public class BossLife : MonoBehaviour
         {
             currentLife = 0;
 
-            // morir
+            Die();
+        }
+    }
+    private void Die()
+    {
+        Boss1 boss = GetComponent<Boss1>();
+
+        if (boss != null)
+        {
+            boss.Dead();
         }
     }
 }

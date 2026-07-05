@@ -9,6 +9,8 @@ public class MenuManager : MonoBehaviour
     public GameObject panelGameOver;
     public GameObject hud;
     public GameObject vidaboss;
+    public GameObject panelCinematica;
+    public PlayVideo playVideo;
 
     void Start()
     {
@@ -24,8 +26,19 @@ public class MenuManager : MonoBehaviour
     {
         panelMenu.SetActive(false);
         panelGameOver.SetActive(false);
-        hud.SetActive(true);
+
+        panelCinematica.SetActive(true);
+        playVideo.IniciarCinematica();
+
+        hud.SetActive(false);
         vidaboss.SetActive(false);
+
+        Time.timeScale = 0f;
+    }
+    public void FinCinematica()
+    {
+        panelCinematica.SetActive(false);
+        hud.SetActive(true);
 
         Time.timeScale = 1f;
     }

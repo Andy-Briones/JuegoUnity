@@ -160,12 +160,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::player
   speed: 4
-  jumpForce: 4
+  jumpForce: 5
   groundCheck: {fileID: 4902046892463851184}
   groundRadius: 0.1
   groundLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 136
   maxJumps: 1
   projectilePrefab: {fileID: 340225746643655236, guid: b94b27058cb8e1e43a223c8db21418b3, type: 3}
   firePoint: {fileID: 2708069039429419932}

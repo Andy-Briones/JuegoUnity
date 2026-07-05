@@ -39,11 +39,15 @@ public class Boss1 : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
 
+    [Header("Orientación")]
+    public bool spriteMiraDerecha = false;
+
     private bool isAttacking = false;
     private bool isDead = false;
     private bool isDefending = false;
     private bool isStunned = false;
 
+    public GameObject panelVictoria;
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -73,9 +77,13 @@ public class Boss1 : MonoBehaviour
 
         // Girar el sprite
         if (direction.x > 0)
-            sr.flipX = false;
+        {
+            sr.flipX = !spriteMiraDerecha;
+        }
         else if (direction.x < 0)
-            sr.flipX = true;
+        {
+            sr.flipX = spriteMiraDerecha;
+        }
     }
     private void AtaqueHorizontal()
     {
@@ -162,5 +170,19 @@ public class Boss1 : MonoBehaviour
             // Jugador muy lejos
             animator.SetBool("IsWalking", false);
         }
+    }
+    public void Dead()
+    {
+        vida.SetActive(false);
+        isDead = true;
+
+        animator.SetTrigger("Die");
+
+        MostrarVictoria();
+    }
+    private void MostrarVictoria()
+    {
+        panelVictoria.SetActive(true);
+        Time.timeScale = 0f;
     }
 }

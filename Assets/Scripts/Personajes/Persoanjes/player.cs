@@ -139,7 +139,7 @@ public class player : MonoBehaviour
 
             if (enemy != null)
             {
-                enemy.TakeDamage(1);
+                enemy.TakeDamage(10);
             }
 
             BossLife boss = hit.GetComponent<BossLife>();

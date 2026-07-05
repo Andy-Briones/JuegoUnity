@@ -39,4 +39,19 @@ public class PlayerLife : MonoBehaviour
     {
         isHurt = false;
     }
+    public void InstantKill()
+    {
+        if (lives <= 0)
+            return;
+
+        lives = 0;
+
+        if (playerAnimator != null)
+        {
+            playerAnimator.SetTrigger("Hurt");
+        }
+
+        Uimanager.Instance.RomperGema(lives);
+        Uimanager.Instance.MostrarGameOver();
+    }
 }
