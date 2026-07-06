@@ -2043,17 +2043,17 @@ PolygonCollider2D:
       - {x: 0.76784164, y: 0.57124937}
       - {x: 0.67000073, y: 0.6830675}
       - {x: 0.60011435, y: 0.9067039}
-      - {x: 0.48829618, y: 0.9905675}
-      - {x: 0.39045528, y: 0.9905675}
-      - {x: 0.30659166, y: 0.9346584}
-      - {x: 0.3345462, y: 0.8647721}
-      - {x: 0.19477347, y: 0.8647721}
-      - {x: -0.028862888, y: 0.8787494}
-      - {x: -0.084771976, y: 0.9905675}
-      - {x: -0.18261288, y: 0.9905675}
-      - {x: -0.29443106, y: 0.962613}
-      - {x: -0.4342038, y: 0.9905675}
-      - {x: -0.6298856, y: 0.9905675}
+      - {x: 0.57475984, y: 1.1223207}
+      - {x: 0.46868876, y: 1.1387911}
+      - {x: 0.36423218, y: 1.1487601}
+      - {x: 0.26043367, y: 1.1406337}
+      - {x: 0.17830724, y: 1.1406323}
+      - {x: 0.078187935, y: 1.1340225}
+      - {x: -0.01889544, y: 1.1346732}
+      - {x: -0.14555371, y: 1.1387912}
+      - {x: -0.3108973, y: 1.1396585}
+      - {x: -0.6441845, y: 1.1511437}
+      - {x: -0.7698747, y: 1.056444}
       - {x: -0.75568104, y: 0.8647721}
       - {x: -0.81159014, y: 0.6131812}
       - {x: -0.9932947, y: 0.43147662}
@@ -2296,7 +2296,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss1
   speed: 2
-  detectionRange: 8
+  detectionRange: 20
   attackRange: 6
   player: {fileID: 0}
   attackPoint: {fileID: 1988590232}
@@ -2981,7 +2981,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -961, y: -560.5326}
-  m_SizeDelta: {x: 239.652, y: 44.9348}
+  m_SizeDelta: {x: 320, y: 152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &402670835
 MonoBehaviour:
@@ -3059,8 +3059,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: -5247484443216831957, guid: f9f1266c6b4e85348a2a35b4b984e25c, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -5210,7 +5210,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -773, y: -633}
-  m_SizeDelta: {x: 338.989, y: 95.0188}
+  m_SizeDelta: {x: 320, y: 152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &614127729
 MonoBehaviour:
@@ -5288,8 +5288,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: -5247484443216831957, guid: f9f1266c6b4e85348a2a35b4b984e25c, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -9968,7 +9968,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver al MENU
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12008,7 +12008,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15584,7 +15584,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver al MENU
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

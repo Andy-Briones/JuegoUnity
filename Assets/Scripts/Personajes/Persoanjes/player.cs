@@ -116,14 +116,6 @@ public class player : MonoBehaviour
         projectile.SetDirection(facingRight ? 1 : -1);
     }
 
-    private void OnDrawGizmosSelected()
-    {
-        if (groundCheck != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(groundCheck.position, groundRadius);
-        }
-    }
     public void MeleeAttack()
     {
         Vector2 origin = transform.position;

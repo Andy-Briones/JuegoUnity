@@ -177,6 +177,7 @@ public class Boss1 : MonoBehaviour
         isDead = true;
 
         animator.SetTrigger("Die");
+        vida.SetActive(false);
 
         MostrarVictoria();
     }

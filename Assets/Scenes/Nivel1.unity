@@ -4016,7 +4016,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -773, y: -633}
-  m_SizeDelta: {x: 338.989, y: 95.0188}
+  m_SizeDelta: {x: 320, y: 152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &438473121
 MonoBehaviour:
@@ -4094,8 +4094,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: -5247484443216831957, guid: f9f1266c6b4e85348a2a35b4b984e25c, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -10864,7 +10864,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11572,7 +11572,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver al MENU
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13291,7 +13291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver al MENU
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -61380,19 +61380,19 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 13.197947, y: -9.172121}
-      - {x: 10.23242, y: -9.166069}
-      - {x: 10.199905, y: -10.131992}
-      - {x: 8.131437, y: -10.114709}
-      - {x: 8.143905, y: -11.102226}
-      - {x: 7.1446548, y: -11.100738}
-      - {x: 7.150647, y: -12.1052885}
-      - {x: 4.06184, y: -12.11217}
-      - {x: 4.085738, y: -13.145368}
+    - - {x: 13.5353775, y: -9.172121}
+      - {x: 10.496497, y: -9.166069}
+      - {x: 10.537336, y: -10.117321}
+      - {x: 8.278146, y: -10.100038}
+      - {x: 8.275944, y: -11.116898}
+      - {x: 7.3940616, y: -11.159422}
+      - {x: 7.4147243, y: -12.1052885}
+      - {x: 4.2672334, y: -12.11217}
+      - {x: 4.26179, y: -13.174709}
       - {x: 2.1493113, y: -13.170916}
-      - {x: 2.167057, y: -14.074896}
-      - {x: -0.9488648, y: -14.100172}
-      - {x: -0.95372343, y: -14.998506}
+      - {x: 2.181727, y: -14.192264}
+      - {x: -0.8168262, y: -14.144185}
+      - {x: -0.82168436, y: -15.174557}
       - {x: -4.088938, y: -15.303218}
       - {x: -2.6620293, y: -16.557552}
       - {x: -0.36499453, y: -14.9355545}
@@ -61472,7 +61472,7 @@ PolygonCollider2D:
       - {x: 18.857725, y: -9.094517}
       - {x: 17.792099, y: -9.08407}
       - {x: 17.785599, y: -8.138078}
-      - {x: 13.2158985, y: -8.2335615}
+      - {x: 13.479977, y: -8.2335615}
   m_UseDelaunayMesh: 1
 --- !u!1 &1858181604
 GameObject:
@@ -62404,7 +62404,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -961.00006, y: -560.53265}
-  m_SizeDelta: {x: 239.652, y: 44.9348}
+  m_SizeDelta: {x: 320, y: 152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1958478642
 MonoBehaviour:
@@ -62482,8 +62482,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: -5247484443216831957, guid: f9f1266c6b4e85348a2a35b4b984e25c, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
